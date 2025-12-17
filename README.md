@@ -1,4 +1,4 @@
-# ML Final Project: Australia Precipitation Prediction
+# ML Final Project: Australia Precipitation Predictions
 
 **Group Members:** Peter Pan, Sherry Tao, Eva Wu
 
@@ -11,7 +11,7 @@ This project applies multiple machine learning models to predict precipitation p
 - **CNN** for spatial/structured feature learning (`Final_CNN.ipynb`)
 
 ## Data
-- Source: [briefly state dataset, e.g. Bureau of Meteorology / processed gridded precipitation data]
+- Source: [https://catalog.leap.columbia.edu/feedstock/australian-gridded-climate-data-agcd]
 - Preprocessing includes normalization, train-test splitting, and feature engineering.
 
 ## Evaluation
